@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Sync">
-      <change afterPath="$PROJECT_DIR$/src/ThreadPriority/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadPriority/ThreadPriority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Priority" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669114644817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Thread Priority">
+      <created>1669116117104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669116117104</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +168,7 @@
     <MESSAGE value="Login System Update" />
     <MESSAGE value="Multi Threading" />
     <MESSAGE value="Thread Sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread Sync" />
+    <MESSAGE value="Thread Priority" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread Priority" />
   </component>
 </project>
