@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Multi Threading">
-      <change afterPath="$PROJECT_DIR$/src/ThreadSynchronization_Part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadSynchronization_Part_1/ThreadSync.java" afterDir="false" />
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Sync">
+      <change afterPath="$PROJECT_DIR$/src/ThreadPriority/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadPriority/ThreadPriority.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreadSynchronization_Part_2.Main">
+  <component name="RunManager" selected="Application.ThreadPriority.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoginSystem.Main" />
       <module name="SRIT_GITHUB" />
@@ -60,6 +60,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Multi_Threading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPriority.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPriority.Main" />
+      <module name="SRIT_GITHUB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadPriority.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPriority.Main" />
         <item itemvalue="Application.ThreadSynchronization_Part_2.Main" />
         <item itemvalue="Application.ThreadSynchronization_Part_1.Main" />
         <item itemvalue="Application.Multi_Threading.Main" />
@@ -125,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669112137255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Thread Sync">
+      <created>1669114644817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669114644817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +164,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Login System Update" />
     <MESSAGE value="Multi Threading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multi Threading" />
+    <MESSAGE value="Thread Sync" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thread Sync" />
   </component>
 </project>
