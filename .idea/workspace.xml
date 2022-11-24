@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Priority" />
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Priority">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/IteratingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SortingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/forEachArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +42,17 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreadPriority.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoginSystem.Main" />
+  <component name="RunManager" selected="Application.SimpleHashtable">
+    <configuration name="Collections.IteratingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.IteratingArrayList" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoginSystem.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multi_Threading.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multi_Threading.Main" />
+    <configuration name="Collections.SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.SimpleArrayList" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multi_Threading.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPriority.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPriority.Main" />
+    <configuration name="SimpleHashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.SimpleHashtable" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadPriority.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSynchronization_Part_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSynchronization_Part_1.Main" />
+    <configuration name="SimpleVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.SimpleVector" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadSynchronization_Part_1.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSynchronization_Part_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadSynchronization_Part_2.Main" />
+    <configuration name="SortingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.SortingArrayList" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadSynchronization_Part_2.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPriority.Main" />
-        <item itemvalue="Application.ThreadSynchronization_Part_2.Main" />
-        <item itemvalue="Application.ThreadSynchronization_Part_1.Main" />
-        <item itemvalue="Application.Multi_Threading.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SimpleHashtable" />
+        <item itemvalue="Application.SimpleVector" />
+        <item itemvalue="Application.SortingArrayList" />
+        <item itemvalue="Application.Collections.IteratingArrayList" />
+        <item itemvalue="Application.Collections.SimpleArrayList" />
       </list>
     </recent_temporary>
   </component>
