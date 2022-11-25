@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Thread Priority">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/IteratingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleHashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/SimpleVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/SortingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/forEachArrayList.java" afterDir="false" />
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.SimpleHashtable">
     <configuration name="Collections.IteratingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.IteratingArrayList" />
@@ -159,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669116117104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Collections">
+      <created>1669272364198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669272364198</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +179,7 @@
     <MESSAGE value="Multi Threading" />
     <MESSAGE value="Thread Sync" />
     <MESSAGE value="Thread Priority" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread Priority" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
 </project>
