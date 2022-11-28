@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Poi Lib Added to Project">
-      <change afterPath="$PROJECT_DIR$/src/simpleBookingSystem/Main.java" afterDir="false" />
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Booking System v1.0">
+      <change afterPath="$PROJECT_DIR$/src/simpleBookingSystem/dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleBookingSystem/dataBaseHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRIT_GITHUB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SRIT_GITHUB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleBookingSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleBookingSystem/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "X:/Downloads/MySqlJdbcDriver/mysql-connector-j-8.0.31.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.SimpleHashtable">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Collections.IteratingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.IteratingArrayList" />
       <module name="SRIT_GITHUB" />
@@ -61,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.SimpleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.SimpleArrayList" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleBookingSystem.Main" />
       <module name="SRIT_GITHUB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="simpleBookingSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SimpleHashtable" />
         <item itemvalue="Application.SimpleVector" />
         <item itemvalue="Application.SortingArrayList" />
         <item itemvalue="Application.Collections.IteratingArrayList" />
-        <item itemvalue="Application.Collections.SimpleArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669340625477</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Booking System v1.0">
+      <created>1669623821488</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669623821488</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +214,7 @@
     <MESSAGE value="Thread Priority" />
     <MESSAGE value="Collections" />
     <MESSAGE value="Poi Lib Added to Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Poi Lib Added to Project" />
+    <MESSAGE value="Booking System v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Booking System v1.0" />
   </component>
 </project>
