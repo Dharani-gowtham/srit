@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Booking System v1.0">
-      <change afterPath="$PROJECT_DIR$/src/simpleBookingSystem/dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simpleBookingSystem/dataBaseHashMap.java" afterDir="false" />
+    <list default="true" id="0077fc00-b7fe-4a49-9f9a-a0fe0d5bd0d5" name="Changes" comment="Booking System external lib added">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_31.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SRIT_GITHUB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SRIT_GITHUB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simpleBookingSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleBookingSystem/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,14 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\freelancer_apps\test\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\freelancer_apps\test\lib" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Collections.IteratingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.IteratingArrayList" />
@@ -192,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669623821488</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Booking System v1.1">
+      <created>1669656354385</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669656354385</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +229,8 @@
     <MESSAGE value="Collections" />
     <MESSAGE value="Poi Lib Added to Project" />
     <MESSAGE value="Booking System v1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Booking System v1.0" />
+    <MESSAGE value="Booking System v1.1" />
+    <MESSAGE value="Booking System external lib added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Booking System external lib added" />
   </component>
 </project>
